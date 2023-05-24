@@ -3,7 +3,7 @@ An updated version of f2a-morse, this time using rigctl to control the rig inste
 
 I originally designed this simple script to help with my Amateur Radio GB2CW transmissions. I wanted to be able to send reliably sped CW using F2A (Morse code over FM) for others in the local area to hear and decode.
 
-Ordinarily I would either send manually (on a key), or if needed use a computer programme. However neither of these options work with FM.
+Ordinarily I would either send manually (on a key), or if needed use a computer program. However neither of these options work with FM.
 
 To get round this, I use the morse application (https://gitlab.com/esr/morse-classic) to generate the Morse audio within the Terminal, and use rigctl to:
 
